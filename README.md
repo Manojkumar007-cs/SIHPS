@@ -1,4 +1,4 @@
-# Smart India Hackathon Workshop
+![Screenshot 2024-12-01 183554](https://github.com/user-attachments/assets/81bc0886-7ef5-4b68-8c3b-6a3e53c598a8)# Smart India Hackathon Workshop
 # Date:28\11\2024
 ## Register Number:24900281
 ## Name:Manojkumar.k
@@ -75,25 +75,12 @@ Multilingual support to cater to a diverse alumni base.
 Offline features for mobile apps to access critical resources without connectivity.
 
 ## Proposed Solution / Architecture Diagram
-Regular updates to add new features and fix bugs based on user feedback.
-Expected Outcomes
-Enhanced Alumni Engagement:
-Increased participation in events and networking activities.
-Increased Donations:
-Simplified processes encouraging more contributions.
-Career Growth:
-Access to job opportunities and mentorship programs.
-Community Building:
-A stronger sense of belonging among alumni.
-Pride and Inspiration:
-Showcasing success stories will boost morale and inspire current students.
-Scalability & Future Enhancements
-AI-based recommendations for connections and job opportunities.
-Gamification of participation to encourage active engagement.
-Multilingual support to cater to a diverse alumni base.
-Offline features for mobile apps to access critical resources without connectivity.
+![Screenshot 2024-12-01 183554](https://github.com/user-attachments/assets/06d4f6b2-0827-44bb-a1ce-8c398a606852)
 
 ## Use Cases
+![Screenshot 2024-12-01 183633](https://github.com/user-attachments/assets/12b5a1d5-5a38-4740-b23d-69414b6e9e29)
+
+## Technology Stack
 Event Management:
 Create and manage event registrations, RSVPs, and ticketing.
 Integration with calendars for reminders.
@@ -115,9 +102,6 @@ Backend:
 Node.js/Express.js for handling API requests.
 Database: PostgreSQL (structured data) and MongoDB (unstructured data).
 Authentication: OAuth 2.0 for secure login.
-Cloud & Hosting:
-
-## Technology Stack
 AWS/GCP for hosting and scaling the application.
 Firebase for push notifications on mobile devices.
 Security:
